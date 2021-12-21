@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+On the way home from work, you have a craving for your favorite chicken dish.  While you're shopping at the grocery store, you can't remember if you already have enough paprika, or did you have smoked paprika?  You end up buying paprika, only to discover that you now have two full bottles at home from the last time you did the same thing.  Perhaps, you have had the opposite experience.  You are sitting at home and do not want to leave the house or pay exorbitant food delivery fees.  What meals can you prepare with the ingredients you have on hand?  Introducing WhatsInYourCabinet.com to keep track of all of your ingredients and recipes and save you tons of money in redundant grocery item buying and take out fees.
+
 ### Features
-Include Features here
+CI/CD Pipeline deployment.  Web Services to input and read ingredients and recipes.
+ 
 ### Technologies
-Include Technologies here
+Spring Boot Web Service
+GitLab CI/CD
+Python CI/CD scripts as necessary
+Ansible
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Spring Boot Web Service
+GitLab CI/CD
+Ansible
+
 ### Project Tracker
-Link to your Trello board here
+<a href="https://trello.com/b/KkVgV6qo/project-documentation">https://trello.com/b/KkVgV6qo/project-documentation</a>
